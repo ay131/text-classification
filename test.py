@@ -1,4 +1,3 @@
 import sent as s
-m1= s.sentiment("what the fuck")
-m2= s.sentiment("pop the cherry")
-print(m1,m2)
+
+print(s.sentiment("the gorgeously elaborate continuation of the lord of the rings  trilogy is so huge that a column of words cannot adequately describe co-writer/director peter jackson's expanded vision of j . r . r . tolkien's middle-earth .effective but too-tepid biopic"))
